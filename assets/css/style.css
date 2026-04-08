@@ -1,0 +1,118 @@
+.wrap-dropi h1 {
+    color: #EC6F2D;
+    font-weight: bold;
+}
+
+.card-dropi {
+    border: 2px solid #EC6F2D;
+    background-color: #EC6F2D;
+}
+
+.bg-check-products {
+    border: 2px solid #c9e7f8;
+    background-color: #ebf5fb;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+
+.card-body-dropi {
+    padding: 20px;
+}
+
+.form-group-dropi label {
+    color: #EC6F2D;
+    font-weight: bold;
+}
+
+.form-control-dropi {
+    border: 1px solid #EC6F2D;
+    color: #333;
+}
+
+.btn-dropi {
+    background-color: #EC6F2D;
+    border-color: #EC6F2D;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.btn-dropi:hover {
+    background-color: #d55b24;
+    border-color: #d55b24;
+}
+
+.card-header-dropi img {
+    max-width: 100px;
+    display: block;
+    margin: 0 auto 20px auto;
+}
+.sort-icon-container {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5px;
+}
+
+.sort-icon {
+    line-height: 1;
+    font-size: 12px; 
+    color: #737373;
+}
+
+.sort-icon.active {
+    color: #2d79ec;
+}
+.th {
+    font-weight: normal;
+}
+
+
+/* Estilos para la plataforma DROPIPRO */
+.dropipro-logo {
+    border: 2px solid #EC6F2D;
+    border-radius: 10px;
+    
+}
+.test-logo {
+    border: 2px solid #EC6F2D;
+    border-radius: 10px;
+}
+.coinnecta-logo {
+    border: 2px solid #000;
+    background-color: #000;
+    border-radius: 10px;
+}
+
+.dropstack-logo {
+    border: 2px solid #EC6F2D;
+    border-radius: 10px;
+}
+
+.droplatam-logo {
+    border: 2px solid #4e5eea;
+    background-color: #4e5eea;
+    border-radius: 10px;
+}
+
+
+.justecom-logo {
+    border: 2px solid #EC6F2D;
+    border-radius: 10px;
+}
+
+
+.universidadecom-logo {
+    border: 2px solid #000;
+    background-color: #000;
+    border-radius: 10px;
+}
+
+
+.mba-logo {
+    border: 2px solid #000;
+    background-color: #000;
+    border-radius: 10px;
+}
+
